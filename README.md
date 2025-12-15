@@ -1,9 +1,8 @@
-<div align="center">
-<img src="https://wakatime.com/share/@9625f0b8-819f-4467-94c4-26cf5932e81c/0f2acb14-845e-48e8-9f52-43707ac1f0c1.svg" width="90%"/>
-</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&color=0844A3&center=true&vCenter=true&width=440&lines=MERN+Stack+Developer;Web-Developer;and;Mobile+App+developer;Self-taught+Programmer;Node+Js+Developer;2+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" />
+<a href ="https://github.com/aliaftabsheikh"><img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&amp;rid=giphy.gif&amp;ct=s" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px; left: 0px; top: 0px;"></a>&nbsp
 </p>
+
 
 Hi ,I'm Muhammed Ali Akmal
 
