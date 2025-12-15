@@ -1,5 +1,6 @@
-https://github.com/aliaftabsheikh
-
+<div align="center">
+<img src="https://wakatime.com/share/@9625f0b8-819f-4467-94c4-26cf5932e81c/0f2acb14-845e-48e8-9f52-43707ac1f0c1.svg" width="90%"/>
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&color=0844A3&center=true&vCenter=true&width=440&lines=MERN+Stack+Developer;Web-Developer;and;Mobile+App+developer;Self-taught+Programmer;Node+Js+Developer;2+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" />
 </p>
