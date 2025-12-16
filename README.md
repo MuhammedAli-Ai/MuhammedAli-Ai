@@ -6,12 +6,12 @@
  <h3 align="center">Freelancer from Pakistan.</h3>
 
 🙋‍♂️ About Me
-🎓 UnderGraduation in BS-CS,
-🌱 I’m currently learning Web 3.0 & Metaverse Technologies
-👯 I’m looking to collaborate on OpenSource Projects
-📫 How to reach me azizakmal575@gmail.com
-⚡ Fun fact I love coding and I'm a quick learner.
-🚀 Technologies I know
+ UnderGraduation in BS-CS,
+ I’m currently learning Web 3.0 & Metaverse Technologies
+ I’m looking to collaborate on OpenSource Projects
+ How to reach me azizakmal575@gmail.com
+ Fun fact I love coding and I'm a quick learner.
+ Technologies I know
 HTML, CSS, Javascript, EcmaScript, Typescript
 MERN Stack (ExpressJs, ReactJs, NodeJs, NextJs)
 Styling (Tailwindcss, Material-UI, Ant Design, , Bootstrap, toastify)
