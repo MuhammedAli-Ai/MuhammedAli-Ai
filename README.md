@@ -14,7 +14,7 @@
 🚀 Technologies I know
 HTML, CSS, Javascript, EcmaScript, Typescript
 MERN Stack (ExpressJs, ReactJs, NodeJs, NextJs)
-Styling (Tailwindcss, Material-UI, Ant Design, , Bootstrap)
+Styling (Tailwindcss, Material-UI, Ant Design, , Bootstrap, toastify)
 Databases (Firebase Firestore,)
 Project Management (git, Github)
 Design (Figma, Canva)
